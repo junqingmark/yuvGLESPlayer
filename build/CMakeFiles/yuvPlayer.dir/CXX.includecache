@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/henry/src_test/learnOpengl/yuvPlayer/main.cpp
+shader.h
+/home/henry/src_test/learnOpengl/yuvPlayer/shader.h
+SDL2/SDL.h
+-
+
+/home/henry/src_test/learnOpengl/yuvPlayer/shader.h
+GLES2/gl2.h
+-
+glm/glm.hpp
+-
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+

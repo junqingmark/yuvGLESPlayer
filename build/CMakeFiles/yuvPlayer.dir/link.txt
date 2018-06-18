@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/yuvPlayer.dir/main.cpp.o  -o yuvPlayer -lSDL2 -lGLESv2 -lEGL 
